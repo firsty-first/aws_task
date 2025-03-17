@@ -1,0 +1,16 @@
+account_id: '376129861747'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-6620/ad7b5c5a/task04
+expiration: 2025-03-17 05:07:07.461122+00:00
+extended_prefix_mode: true
+project_path: C:\Users\gauravkumar_singh1\Gaurav\aws_task
+region: eu-west-1
+resources_prefix: cmtr-ad7b5c5a-
+tags:
+  run_id: JAP-08
+  run_type: stm
+  type: user
+  user_id: ad7b5c5a
+temp_aws_access_key_id: ASIAVPEYWHBZXIYLXXK3
+temp_aws_secret_access_key: vcREm+BmtLYKvZJ5LgerpOS5HmJijMsWQD3AUo23
+temp_aws_session_token: IQoJb3JpZ2luX2VjEOX//////////wEaCXVzLWVhc3QtMSJHMEUCIQDg7btsqRTnzQPf2uGtC34rUmFUhuAhLOkizXMMznA8VwIgTV8b1cJtpovGYg+dzjL0PZctxWdURlntW6MnzlJ97z0q2wIIPRAAGgwzNzYxMjk4NjE3NDciDGTlHeAYNoF/bPGg2yq4Auu/J8UVNH87MR2EdGAOYpSmBojCe8xpBv9dkoK90SWMdKrVRYe5tl+JVIvNivEoK1b7EKNV/9l4i59OvLLBvoH1JvyWLvPz7TrWGyZx0A6YNe8bpjviNLPgEFH+RqW8WkI4LIwe/9n6kNA225jujQEzDD1z3I9Mc481A3pSktgHL18tU2PQgkWBWO3SthnIvvaBNM++r09QMDhqtq1qN7p2eFJ51ViB1LXp8WncazEn/iLRqAnC0crcE2rEIkKmZguc108c6GwKXY+lgJ0h/wyYDg554kzI3YN+rJ58W+LEKFPDT5o6k5W2xk0nGy26/qCSIBvStSkUxZyK9LG0wmUaCIi5i8N5y/JDdY9PiGQfUd+0tUoqzOWI6TvFjzYwuxblkUNqZO+ChJjVZIhScGKtrKC7bxNSHzC8xN6+BjqdAa5paRIvgpCEAzMGj3ukbAqnRf93s5+7ET6mx47sJWbnFficGvZ//oAEdWyIDyy905N8GvYFbB4uV5Ps/tu4vwC7LBPZdZpL8CAcD4iVG0M9nch5g1x6ZN5qG0kWDAqDQoTD8xV2NevFR2YcKny0NlSjojL+wjV14UTcqnoD5iVWeMBYCLQMTc9bcnsAOmxpzYVO8+O//s6clyy2ihg=
+use_temp_creds: false
